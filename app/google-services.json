@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "668146591318",
+    "project_id": "muainteractive",
+    "storage_bucket": "muainteractive.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668146591318:android:023aa5642d7c488b96bdf7",
+        "android_client_info": {
+          "package_name": "com.utec.munainteractive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfxHyPzI89IruSEdusqJZluE5Odc2qI6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
