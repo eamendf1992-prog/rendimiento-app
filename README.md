@@ -21,7 +21,7 @@
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone [https://github.com/tu-usuario/nombre-del-repo.git](https://github.com/tu-usuario/nombre-del-repo.git)
+    git clone [https://github.com/eamendf1992-prog/rendimiento-app.git]
     ```
 
 2.  **Configurar Firebase:**
