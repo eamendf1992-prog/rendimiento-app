@@ -35,7 +35,7 @@
 4.  **Compilar y Ejecutar:**
     * Abre el proyecto en **Android Studio**.
     * Sincroniza los archivos de Gradle.
-    * Ejecuta la app en un dispositivo físico (los emuladores no suelen soportar escaneo BLE).
+    * Ejecuta la app en un dispositivo.
 
 ## 📄 Estructura de Datos (Firestore)
 
